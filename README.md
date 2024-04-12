@@ -26,3 +26,6 @@ If you want to continue using docker and flannel, please refer to the attached d
 
 # Refs
 - https://www.gitbook.com/download/pdf/book/opsnull/follow-me-install-kubernetes-cluster
+
+# Alternative solution
+- https://github.com/kubernetes-sigs/kubespray
