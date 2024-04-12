@@ -24,8 +24,9 @@ If you want to continue using docker and flannel, please refer to the attached d
 
 ![grafana_dashboard.png](images%2Fgrafana_dashboard.png)
 
+
+## Alternative solution
+- https://github.com/kubernetes-sigs/kubespray
+
 # Refs
 - https://www.gitbook.com/download/pdf/book/opsnull/follow-me-install-kubernetes-cluster
-
-# Alternative solution
-- https://github.com/kubernetes-sigs/kubespray
