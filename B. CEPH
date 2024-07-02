@@ -1,0 +1,11 @@
+CEPH (cho enterpsise)
+- nvme cao
+- IOPS cao
+
+nếu ko đủ thì file nó rất là chậm , và lâu
+
+chia thành các block , duplicate ra từng con (software define storage)
+
+raid 5 + NFS (khi maintain, cần shutdown con raid đi, còn CEFH thì không cần)
+
+Proxmox
